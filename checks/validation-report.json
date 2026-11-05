@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:18.075845+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "d58db5da356cda67828261e3f960738f11ca68ba8c3809a9e579a9fd5f025e00",
+      "errors": []
+    },
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8219280dc8cd88f7530f7802f0989c1c3b9b3b997bbd789d9b582549680766ad",
+      "errors": []
+    },
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "9130aca59556fb84b08552d9dfffc86113539927eeeb14f28531fba74c0f6e44",
+      "errors": []
+    },
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "80a0c59ac0312068d29302ab8caa75c8832b902bf9ec9c3ea56c2e4d5c26219e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "02d3606c902a7928d56bcef27eb7ce1aa61500e0833d371a18f5c4710b2593b7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0f8373794c3910b2f68d07c28376e63ec6cb3e86c2bee5ed56c1b02aa5d7243e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4501-soulful-boom-bap-chords-opening/z4501-soulful-boom-bap-chords-opening-combined.mid",
+      "bytes": 5657,
+      "sha256": "1847ebd2490c488448ecb32422bf94ddadd2147673c0a3610dba5b67d402e597",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "1aaab13ec54cf71ca84e5b0f96819fccf303b54b7c5fa5e64c36765b339d900f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f9ce6f2ed2ce0ab502886188071a86894e8e748d8ecf80255c479a97707ece78",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "9130aca59556fb84b08552d9dfffc86113539927eeeb14f28531fba74c0f6e44",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "aff6bcb5e584fc1f3caf60c60fa314228699c78c3bf87fb39804d5175f479605",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "fc49bad5d5761784b98b1baadf95c621dd9ab7134e90ac8a66a582a5620286bd",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1832da2152598e651605a4b9be4f53a98c2639c1849b31595fa929afca90fa12",
+      "errors": []
+    },
+    {
+      "path": "midi/z4502-soulful-boom-bap-chords-variation/z4502-soulful-boom-bap-chords-variation-combined.mid",
+      "bytes": 5657,
+      "sha256": "2cdb4679ae34cfba65992af022d6e59743285e30a7b727023f1bfec6d2b80c69",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "46612a6d1fe67c3d2b87b4c63f159fc69725b6d0f8901cd094007df61ddad9f0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fdc4da204bffcbed738b504e28f0a61d448ee460f5f00e698b1935201b335c72",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "9130aca59556fb84b08552d9dfffc86113539927eeeb14f28531fba74c0f6e44",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "459aa9b5b3587f6416d2c2a04c3f8332965ee9268adaff11faee7472d011e888",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "d8036d801857afc28f83c38dbd994602c4d27a641586c8c2273b4578b44921d5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "b6c029a7666ccbde8126a72a3bd612fb0f73a085115a05b274bfbba2961292d4",
+      "errors": []
+    },
+    {
+      "path": "midi/z4503-soulful-boom-bap-chords-contrast/z4503-soulful-boom-bap-chords-contrast-combined.mid",
+      "bytes": 5627,
+      "sha256": "7988ad3ae2535ee4ce2018567ffb17a18bce08212f0e83a7599d3911e130bf2b",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b3159f9ebc3fd99e3a146bc0e6331c35d1ed5555bcc2f932963f0229aab80432",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f3523126d12283f0395a9d64a45c749f409da6a77df0cb4d1b89b29a4529aaa7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "9130aca59556fb84b08552d9dfffc86113539927eeeb14f28531fba74c0f6e44",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "b614f5a8c75f737ba0e9e4c299c322354e13f5aa13e44fd15778382312677601",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b0f891dcb2a7b3c770329f37d099d903646efb025bbfc8899047b5ec2b8c6d33",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c9df6745178844454eb908a8066d9534c696e1d5c248723427c3eda650dd05b4",
+      "errors": []
+    },
+    {
+      "path": "midi/z4504-soulful-boom-bap-chords-return/z4504-soulful-boom-bap-chords-return-combined.mid",
+      "bytes": 5627,
+      "sha256": "276eac58186a546b7a2881dd851aff33ccec3edce39320ea0bffc11ffc4f9d7c",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

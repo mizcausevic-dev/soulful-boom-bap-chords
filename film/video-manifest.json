@@ -1,0 +1,26 @@
+{
+  "title": "Soulful Boom-Bap Chords",
+  "study": "z4501",
+  "bpm": 88,
+  "source_audio": "preview/soulful-boom-bap-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "32f8de90388d11d2acfbd3ff20dea7be7274988f43cfc80ef893f4d6306cbbde",
+  "source_midi": "midi/z4501-soulful-boom-bap-chords-opening/z4501-soulful-boom-bap-chords-opening-combined.mid",
+  "source_midi_sha256": "1847ebd2490c488448ecb32422bf94ddadd2147673c0a3610dba5b67d402e597",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "59a45c81f034cc0cb574a382fe1e74280b02bc1765331eadd18a9b9ca7bf0c1a",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "311d7d76e01b885a53b7f96fcd44594ccb1c740b952b0dbb88112155b3ffc9f5",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "fdd7e41bcb51cbc81c1c8ddf6808b7eaf9df205b8cd2babab1ea66b13584fdc2",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

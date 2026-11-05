@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/soulful-boom-bap-chords-simple-synth-preview.mp3",
+  "preview_sha256": "32f8de90388d11d2acfbd3ff20dea7be7274988f43cfc80ef893f4d6306cbbde",
+  "source_midi_path": "midi/z4501-soulful-boom-bap-chords-opening/z4501-soulful-boom-bap-chords-opening-combined.mid",
+  "source_midi_sha256": "1847ebd2490c488448ecb32422bf94ddadd2147673c0a3610dba5b67d402e597",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z4501",
+    "start_seconds": 0,
+    "end_seconds": 87.273
+  },
+  "measurement": {
+    "sample_peak": 0.128919,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
